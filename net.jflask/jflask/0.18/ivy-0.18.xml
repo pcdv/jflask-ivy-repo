@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0">
+  <info organisation="net.jflask" module="jflask" revision="0.18" status="integration" publication="20151202152427"/>
+  <configurations>
+    <conf name="default" visibility="public" extends="runtime"/>
+    <conf name="runtime" visibility="public"/>
+  </configurations>
+  <publications>
+    <artifact name="jflask" type="jar" ext="jar" conf="runtime"/>
+  </publications>
+  <dependencies/>
+</ivy-module>
